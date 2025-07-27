@@ -1,3 +1,6 @@
 transformers 
 torch 
 accelerate 
+sentence-transformers
+pandas
+scikit-learn
